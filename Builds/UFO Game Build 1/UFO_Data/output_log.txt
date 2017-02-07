@@ -1,0 +1,36 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 555M (ID=0x124d)
+    Vendor:   NVIDIA
+    VRAM:     3020 MB
+    Driver:   21.21.13.7619
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\UFOUnity\UFO Game\Builds\UFO Game Build 1\UFO_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\UFOUnity\UFO Game\Builds\UFO Game Build 1\UFO_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\UFOUnity\UFO Game\Builds\UFO Game Build 1\UFO_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\UFOUnity\UFO Game\Builds\UFO Game Build 1\UFO_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\UFOUnity\UFO Game\Builds\UFO Game Build 1\UFO_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\UFOUnity\UFO Game\Builds\UFO Game Build 1\UFO_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\UFOUnity\UFO Game\Builds\UFO Game Build 1\UFO_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\UFOUnity\UFO Game\Builds\UFO Game Build 1\UFO_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\UFOUnity\UFO Game\Builds\UFO Game Build 1\UFO_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading E:\UFOUnity\UFO Game\Builds\UFO Game Build 1\UFO_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: E:\UFOUnity\UFO Game\Builds\UFO Game Build 1\UFO_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading E:\UFOUnity\UFO Game\Builds\UFO Game Build 1\UFO_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.203 seconds
+Platform assembly: E:\UFOUnity\UFO Game\Builds\UFO Game Build 1\UFO_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\UFOUnity\UFO Game\Builds\UFO Game Build 1\UFO_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.313691 ms
+Joystick disconnected ("").
+ 
+(Filename:  Line: 714)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3630 -> priority: 1 
+  Thread -> id: 45c0 -> priority: 1 
